@@ -1,6 +1,6 @@
 # Readme.md
-This project is a Minecraft resourcepack. It changes font in-game.
-It only supprts Minecraft Java Edition 1.13 or above 
+- This project is a Minecraft resourcepack. It changes font in-game.
+- It only supprts Minecraft Java Edition 1.13 or above 
 
 # How to install
 1. Download a file
