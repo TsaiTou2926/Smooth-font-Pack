@@ -1,5 +1,5 @@
 # Readme.md
-This project is a Minecraft resourcepack.
+This project is a Minecraft resourcepack. It changes font in-game.
 
 # How to install
 1. Download a file
