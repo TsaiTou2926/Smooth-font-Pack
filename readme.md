@@ -9,7 +9,7 @@
 
 # Fonts
 - Sans
-- ~~Noto Sans~~ (Not yet published)
+- Noto Sans
 
 # Fonts Source
 <https://fonts.google.com/>
